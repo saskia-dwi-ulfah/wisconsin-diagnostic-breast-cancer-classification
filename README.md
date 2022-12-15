@@ -1,1 +1,1 @@
-# wisconsin-diagnostic-breast-cancer-classification
+# Wisconsin (Diagnostic) Breast Cancer Classification
